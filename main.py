@@ -29,4 +29,4 @@ def gravity_calculation(radius, mass):
 gravity_calculation(radius, mass)
 
 df["Gravity"] = gravity
-df
+#df
